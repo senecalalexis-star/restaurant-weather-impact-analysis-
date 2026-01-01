@@ -8,7 +8,9 @@
 
 ## Executive Summary
 ****The Challenge:** North Dinner, a seasonal restaurant, struggles with staffing efficiency during August rainy evenings.
+
 **The Solution:** I built a custom Python ETL pipeline to analyze 2 years of transactional data against historical weather patterns
+
 **The Insight:** Rain does **not** decrease total customer, I can actually increase it and it create a **"Floor Compression"** effect, increasing the traffic by 50% in interiror zones, creating service bottlenecks.
 
 ## Techinical Implementation
