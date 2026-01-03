@@ -21,7 +21,7 @@
 
 ###2. The Findings 
 **Key Insights: The Floor Compression Effect**
-Rain don't affect restaurant volume and shifts customers from the patio (Zones 60-70-80) to the Interior (Zones 30-40-50), increasing table density by 50%.
+Rain don't affect restaurant volume and shifts customers from the patio (Zones 60-70-80) to the Interior (Zones 40-50), increasing table density by 50%.
 
 ![Heatmap Image](visuals/heatmap_dry_vs_rainy.png)
 *(Fig 1: Heatmap showing the collapse of patio traffic during rain)*
